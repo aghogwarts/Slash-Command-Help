@@ -1,3 +1,4 @@
 # Slash-Command-Help
 A very minimal Slash Command Help for Discord Bots written with Disnake
-[slashhelppng](/assets/slash help.png)
+
+[slash help](/assets/slash help.png)
